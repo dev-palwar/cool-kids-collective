@@ -7,7 +7,7 @@ import { cn } from "@/lib/utils";
 const testimonials = [
   {
     quote:
-      "Working with Digital Creator Hub transformed my Instagram! The content strategy and editing helped me increase my engagement by 200%.",
+      "Working with Cool Kids Collective transformed my Instagram! The content strategy and editing helped me increase my engagement by 200%.",
     author: "Jane Doe",
     role: "Fashion Influencer",
   },

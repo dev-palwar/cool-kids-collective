@@ -39,8 +39,8 @@ export default function AboutSection() {
               Who We Are
             </h2>
             <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-              At Digital Creator Hub, were passionate about helping creators and
-              brands unlock their full potential. We specialize in content
+              At Cool Kids Collective, were passionate about helping creators
+              and brands unlock their full potential. We specialize in content
               strategy, video editing, graphic design, and brand collaborations.
               Whether youre a new creator or an established influencer, well
               help you grow and succeed in the digital space.

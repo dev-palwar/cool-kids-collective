@@ -8,10 +8,8 @@ export default function Navbar() {
     { href: "#hero-section", label: "Home" },
     { href: "#about-section", label: "About" },
     { href: "#services-section", label: "Services" },
-    { href: "/#portfolio-section", label: "Portfolio" },
     { href: "/#tesimonial-section", label: "Testimonials" },
     { href: "/#pricing-section", label: "Pricing" },
-    { href: "/#contact-section", label: "Contact" },
   ];
 
   const renderNavLinks = () =>
